@@ -1,0 +1,22 @@
+.pets-container{
+    display: flex;
+    margin: 3rem;
+    flex-wrap: wrap;
+}
+
+
+.btn-create-pet{
+    display: flex;
+    justify-content: center;
+
+    button {
+        margin-top: 1rem;
+        padding: 10px 20px;
+        border-radius: 4px;
+    }
+}
+
+.popup-create{
+    padding: 2rem;
+}
+
